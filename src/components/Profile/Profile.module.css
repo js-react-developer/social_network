@@ -1,0 +1,8 @@
+.content {
+  grid-area: c;
+  background-color: coral;
+}
+
+.avatar img{
+  width: 300px;
+}
